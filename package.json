@@ -1,5 +1,5 @@
 {
-  "name": "microcms-coomponents",
+  "name": "microcms-components",
   "private": true,
   "workspaces": [
     "packages/*",
