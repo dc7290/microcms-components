@@ -10,9 +10,6 @@
     "nextjs.json",
     "react-library.json"
   ],
-  "publishConfig": {
-    "access": "public"
-  },
   "devDependencies": {
     "@tsconfig/strictest": "1.0.1"
   }
